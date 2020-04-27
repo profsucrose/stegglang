@@ -7,7 +7,8 @@ const steggDir = process.argv[2]
 let programText 
 try {
 	programText = readFileSync(steggDir)
-} catch {
+} 
+catch(_e) {
 	console.log(`oh noes ${steggDir} does not point to a valid file try again`)
 }
 

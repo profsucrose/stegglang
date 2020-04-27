@@ -13,6 +13,7 @@ int steggpoint = -1;
 #define setsteggybutton void 
 #define does (){
 #define steggybuttondoesnomore }
+#define steggyloopdoesnomore }
 #define pressbutton ;
 #define stoppressingbutton ();
 #define steggysays std::cout << 
