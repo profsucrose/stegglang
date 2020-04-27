@@ -37,22 +37,16 @@ steggysays "Hello World!" steggystopssaying
 ```
 to print the given string
 
-**Steggpoint**
+**Steggpoints**
 
-Steggy is strong dinoswoar and needs only one number to keep track of all of his data there is a single number and memory steggpoint
-
-```
-addsteggpoint
-```
+Steggy is strong dinoswoar and needs only two number sto keep track of all of his data there are two numbers you can change in memory steggpoint and steggpoint2
+```addsteggpoint```/```addsteggpoint2```
 to add steggpoint one
-```
-losesteggpoint
-```
+```addsteggpoint```/```addsteggpoint2```
 to lose steggpoint one
-```
-whatissteggpoint
-```
+```whatissteggpoint```/```whatissteggpoint2```
 to print steggpoint
+note the above only prints it, to access a steggpoint simple use ```steggpoint```/```steggpoint2```
 
 **Control Logic**
 
