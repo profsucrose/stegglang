@@ -16,6 +16,16 @@ steggy-run myprogram.stegg
 ## Documentation
 Stegglang is #1 easy and powerful language
 
+**Hello Steggy**
+```
+startstegg
+
+stegg
+
+endofstegg
+```
+will print "Steggy!" the entry point for every stegg program is the codeblcok be in startstegg and endofstegg. all code be in main stegg block but make sure to put button outside main stegg block
+
 **Logging**
 
 ```
