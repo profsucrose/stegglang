@@ -37,9 +37,20 @@ steggysays "Hello World!" steggystopssaying
 ```
 to print the given string
 
+**Constants**
+steggy likes to name values
+```
+steggysets STEGGY_CONSTANT tobe 10 endsteggysetting
+```
+access the value with its name
+```
+steggysays STEGGY_CONSTANT steggystopssaying
+```
+same with his points he only likes to name integers and nothing else so dont be going like naming a word or something or he will get mad at you
+
 **Steggpoints**
 
-Steggy is strong dinoswoar and needs only two number sto keep track of all of his data there are two numbers you can change in memory steggpoint and steggpoint2
+Steggy is strong dinoswoar and needs only two number sto keep track  of and modify all of his data there are two numbers you can change in memory steggpoint and steggpoint2
 ```addsteggpoint```/```addsteggpoint2```
 to add steggpoint one
 ```addsteggpoint```/```addsteggpoint2```
