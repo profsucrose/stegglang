@@ -20,3 +20,4 @@ int steggpoint = -1;
 #define steggywilldoconditionally if (
 #define steggywillthendo ) {
 #define steggywillstopdoingaction }
+#define steggywillkeepdoingconditionally while (
