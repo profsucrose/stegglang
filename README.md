@@ -40,7 +40,7 @@ to print the given string
 **Constants**
 steggy likes to name values
 ```
-steggysets STEGGY_CONSTANT tobe 10 endsteggysetting
+steggydeclaresconstant STEGGY_CONSTANT tobe 10 endsteggyconstantdeclaration
 ```
 access the value with its name
 ```
