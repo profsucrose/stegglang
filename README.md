@@ -38,6 +38,7 @@ steggysays "Hello World!" steggystopssaying
 to print the given string
 
 **Constants**
+
 steggy likes to name values
 ```
 steggydeclaresconstant STEGGY_CONSTANT tobe 10 endsteggyconstantdeclaration
