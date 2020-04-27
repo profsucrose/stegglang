@@ -1,0 +1,9 @@
+{
+  "name": "stegglang",
+  "version": "1.0.0",
+  "description": "Steggy lang!",
+  "main": "index.js",
+  "keywords": [],
+  "author": "profsucrose",
+  "license": "ISC"
+}
