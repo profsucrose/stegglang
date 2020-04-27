@@ -39,7 +39,7 @@ to print the given string
 
 **Steggpoint**
 
-Steggy is strong dinoswoar and needs only one number to keep track of all of his data there is a single number and memory steggpoint
+Steggy is strong dinoswoar and needs only two numbers to keep track of all of his data there is a two numbers and memory steggpoints
 
 ```
 addsteggpoint
@@ -53,6 +53,18 @@ to lose steggpoint one
 whatissteggpoint
 ```
 to print steggpoint
+
+You can also do all the same functions, but part 2, electric boogaloo
+
+```
+addsteggpoint2
+```
+```
+losesteggpoint2
+```
+```
+whatissteggpoint2
+```
 
 **Control Logic**
 
