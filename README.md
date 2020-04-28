@@ -75,7 +75,7 @@ steggy can also do loopy a specified number of times
 ```
 dosteggthingfor 10 times
   // Code block
-steggwillstopdoingaction
+steggywillstopdoingaction
 ```
 steggy can also keep doing loopy given condition stay good
 ```
