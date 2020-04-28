@@ -16,7 +16,7 @@ int steggpoint2 = -1;
 #define whatissteggpoint std::cout << "hello mr, stegg point is " << steggpoint << std::endl;
 #define whatissteggpoint2 std::cout << "hello mr, stegg point 2 is " << steggpoint2 << std::endl;
 #define dosteggthingfor for (int i = 0; i <
-#define times ; i++)
+#define times ; i++) {
 #define setsteggybutton void 
 #define does (){
 #define steggybuttondoesnomore }
@@ -29,4 +29,3 @@ int steggpoint2 = -1;
 #define steggywillstopdoingaction }
 #define steggywillkeepdoingconditionally while (
 #define steggywillthendo ) {	
-#define steggyloopdoesnomore }
