@@ -3,9 +3,9 @@
 int steggpoint = -1;
 int steggpoint2 = -1;
 
-#define steggysets const int
+#define steggydeclaresconstant const int
 #define tobe =
-#define endsteggysetting ;
+#define endsteggyconstantdeclaration ;
 #define startstegg int main() {
 #define stegg std::cout << "Steggy!" << std::endl;
 #define endofstegg }
@@ -27,3 +27,6 @@ int steggpoint2 = -1;
 #define steggywilldoconditionally if (
 #define steggywillthendo ) {
 #define steggywillstopdoingaction }
+#define steggywillkeepdoingconditionally while (
+#define steggywillthendo ) {	
+#define steggyloopdoesnomore }
