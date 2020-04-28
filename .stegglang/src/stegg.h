@@ -29,3 +29,4 @@ int steggpoint2 = -1;
 #define steggywillstopdoingaction }
 #define steggywillkeepdoingconditionally while (
 #define steggywillthendo ) {	
+#define steggytakesabreak break;
