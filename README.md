@@ -54,7 +54,7 @@ same with his points he only likes to name integers and nothing else so dont be 
 Steggy is strong dinoswoar and needs only two number sto keep track  of and modify all of his data there are two numbers you can change in memory steggpoint and steggpoint2
 ```addsteggpoint```/```addsteggpoint2```
 to add steggpoint one
-```addsteggpoint```/```addsteggpoint2```
+```losesteggpoint```/```losesteggpoint2```
 to lose steggpoint one
 ```whatissteggpoint```/```whatissteggpoint2```
 to print steggpoint
